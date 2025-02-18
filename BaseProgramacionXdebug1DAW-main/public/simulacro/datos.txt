@@ -1,0 +1,9 @@
+Ana,19,Vitoria
+María,29,Valencia
+Sofía,78,Madrid
+Antonio,18,Vitoria
+Mario,81,Valencia
+Roberto,40,Madrid
+Julia,23,Madrid
+Josefa,76,Barcelona
+Jose,47,Madrid
