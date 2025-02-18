@@ -1,0 +1,32 @@
+Ejercicio 1 (1.5 puntos): Cuenta
+Crea un script que dados dos números pasados por parámetros, muestre la cuenta de un a otro.
+Si el primero es mayor que el segundo, hará la cuenta del primero al segundo; al revés en caso contrario.
+Si son iguales, devolverá que no se puede hacer.
+
+Ejercicio 2 (1.5 puntos): Adivinar con pistas
+Crea un script para adivinar un número que el usuario introducirá por teclado.
+Hasta que no acierte el script se sigue ejecutando.
+En cada intento fallado el script devolverá si el número buscado es mayor o menor que el introducido.
+
+Ejercicio 3: M.C.D (2 puntos).
+Calcula el máximo común divisor de dos números que se pasan por parámetros mediante el algoritmo de Euclides.
+Supongamos que los números son a y b (a es mayor que b).
+1) Dividimos a y b.
+2) Si el resto es = 0, b es el MCD.
+3) Si el resto es != 0, sustituimos a por b, b por el resto,
+y repetimos desde el paso 1 hasta que b sea = 0. Cuando ocurra eso a será el M.C.D.
+
+Ejercicio 4 (1.5 puntos): Mayor y menor
+Obtén el nombre y la edad de la persona más mayor y más joven de datos.txt
+
+Ejercicio 5 (1.5 puntos): Personas por ciudad
+Al pasarle por parámetro una ciudad, me devuelve cuántas hay en datos.txt
+
+Ejercicio 6 (2 puntos): Contar cuántas personas son de cada ciudad
+Escribe un script que cuente cuántas personas hay en cada ciudad y lo muestre en formato:
+Madrid: 3
+Barcelona: 1
+Sevilla: 1
+...
+*Si sólo lo haces para las ciudades que figuran en datos.txt -> 1 punto.
+*Si lo haces para cualquier ciudad que pueda aparecer en un futuro en datos.txt -> 2 puntos.
